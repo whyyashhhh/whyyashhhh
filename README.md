@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">seeking to gain skills ended up being learning</h3>
+<h3 align="center">seeking for skills ended up being learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whyyashhhh&label=Profile%20views&color=0e75b6&style=flat" alt="whyyashhhh" /> </p>
 
